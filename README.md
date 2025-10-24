@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240px"></h2> 
 
 
-[Portfolio](https://kubilay.info/) and [My Dev Notes](https://kubilayisen.dev)
+[Portfolio](https://kubilay.info/)
 
 
 **📫 Where to find me:** 
